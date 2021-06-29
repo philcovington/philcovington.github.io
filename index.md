@@ -1,9 +1,9 @@
-# This is a test
+# How to use markdown to create a webpage
 
-This is just some text that I typed into Code.
+- This is how to create a webpage on github.io
+- You can use markdown to create the page
 
-1. Monday
-2. Tuesday
-3. Wednesday
+## This is a smaller heading
 
+OK
 
